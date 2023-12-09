@@ -8,8 +8,11 @@ C#
 IDE
 Functions
 Add new Member, View Memebers, Delete Members, Update Member details
+![image](https://github.com/nuru18/desktop-application-with-database-c-/assets/81522396/91c8d04c-04ee-489d-bf58-18fcc6af6577)
+
 
 Add new Books, View Books, Delete Books, Update Book details
+
 
 Borrow Book
 
@@ -18,11 +21,11 @@ Return Book
 Payments (History of payments like fines, and payment methods)
 
 Working application User Interface:
-1PNG	2PNG
+
 figure 1.1: Home Page	figure 1.2: Login Page
-1PNG	2PNG
+
 figure 1.1: Main Page	figure 1.2: Add new memeber
-1PNG	2PNG
+
 figure 1.1: Add new Book	figure 1.2: Issue Book
-1PNG	2PNG
+
 figure 1.1: Borrow Book	figure 1.2: Payments
